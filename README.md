@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto tem como objetivo mostrar o calendário do jogos da Copa do Mundo FIFA 2022, realizada no Qatar.
 
+Acesso aqui :arrow: [Calendário Copa 2022](https://leonardoklestadtluz.github.io/nlw-10-copa/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/JUAgfJwzSHrvuyc0pM1AU8/Calend%C3%A1rio-de-Jogos-(Community)?node-id=301%3A1812>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
