@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto tem como objetivo mostrar o calendário do jogos da Copa do Mundo FIFA 2022, realizada no Qatar.
 
-Acesso aqui :arrow: [Calendário Copa 2022](https://leonardoklestadtluz.github.io/nlw-10-copa/)
+Acesso aqui >>> [Calendário Copa 2022](https://leonardoklestadtluz.github.io/nlw-10-copa/)
 
 ## 🔖 Layout
 
